@@ -1,0 +1,17 @@
+ILI9341_STM32_Driver.c:10:13:ILI9341_SPI_Tx	16	static
+ILI9341_STM32_Driver.c:22:13:ILI9341_SPI_TxBuffer	16	static
+ILI9341_STM32_Driver.c:37:6:ILI9341_WriteCommand	16	static
+ILI9341_STM32_Driver.c:48:6:ILI9341_WriteData	16	static
+ILI9341_STM32_Driver.c:59:6:ILI9341_WriteBuffer	16	static
+ILI9341_STM32_Driver.c:75:6:ILI9341_SetAddress	32	static
+ILI9341_STM32_Driver.c:97:6:ILI9341_Reset	8	static
+ILI9341_STM32_Driver.c:107:6:ILI9341_Enable	8	static
+ILI9341_STM32_Driver.c:112:6:ILI9341_Init	8	static
+ILI9341_STM32_Driver.c:251:6:ILI9341_SetRotation	16	static
+ILI9341_STM32_Driver.c:283:6:ILI9341_DrawColor	24	static
+ILI9341_STM32_Driver.c:289:6:ILI9341_DrawColorBurst	64	dynamic
+ILI9341_STM32_Driver.c:331:6:ILI9341_FillScreen	16	static
+ILI9341_STM32_Driver.c:339:6:ILI9341_DrawPixel	32	static
+ILI9341_STM32_Driver.c:368:6:ILI9341_DrawRectangle	24	static
+ILI9341_STM32_Driver.c:386:6:ILI9341_DrawHLine	24	static
+ILI9341_STM32_Driver.c:399:6:ILI9341_DrawVLine	24	static

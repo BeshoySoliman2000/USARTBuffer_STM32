@@ -1,0 +1,8 @@
+EXTI_program.c:27:6:MEXTI_voidInit	4	static
+EXTI_program.c:29:6:MEXTI_voidEnableExti	16	static
+EXTI_program.c:33:6:MEXTI_voidSetExtiEdge	16	static
+EXTI_program.c:48:6:MEXTI_voidDisableExti	16	static
+EXTI_program.c:52:6:MEXTI_voidEnableSWI	16	static
+EXTI_program.c:56:6:MEXTI_voidSetCallBack	16	static
+EXTI_program.c:64:6:EXTI0_IRQHandler	8	static
+EXTI_program.c:68:6:EXTI1_IRQHandler	8	static

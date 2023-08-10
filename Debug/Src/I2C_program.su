@@ -1,0 +1,6 @@
+I2C_program.c:7:6:MI2C_MasterInit	4	static
+I2C_program.c:15:6:MasterSendStartCondition	4	static
+I2C_program.c:23:6:MI2C_MasterTransmitAddress	24	static
+I2C_program.c:32:6:MI2C_MasterRecieve_OneByte	16	static
+I2C_program.c:41:6:MasterSendStopCondition	4	static
+I2C_program.c:45:6:Master_RecieveDataByte	16	static
